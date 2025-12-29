@@ -24,7 +24,7 @@ Before setting up the project, ensure you have:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/harismanazir/cqi-fe
+git clone https://github.com/mohsinuddin1/cqi
 cd frontend-cqi
 ```
 
@@ -41,7 +41,7 @@ yarn install
 Clone and set up the backend server:
 
 ```bash
-git clone https://github.com/harismanazir/cqi-be
+git clone https://github.com/mohsinuddin1/AI_code_reviewer
 cd cqi-be
 ```
 
