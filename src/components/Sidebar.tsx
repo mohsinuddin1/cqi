@@ -89,7 +89,7 @@
 //             <Code className="w-6 h-6 text-white" />
 //           </div>
 //           <div>
-//             <h2 className="font-bold text-sidebar-foreground">Atlan Code</h2>
+//             <h2 className="font-bold text-sidebar-foreground">Code Sense AI</h2>
 //             <p className="text-xs text-sidebar-foreground/60">Intelligence Platform</p>
 //           </div>
 //         </div>
@@ -304,7 +304,7 @@ export const Sidebar: React.FC = () => {
             <Code className="w-6 h-6 text-white" />
           </div>
           <div>
-            <h2 className="font-bold text-sidebar-foreground">Atlan Code</h2>
+            <h2 className="font-bold text-sidebar-foreground">CodeSense AI</h2>
             <p className="text-xs text-sidebar-foreground/60">Intelligence Platform</p>
           </div>
         </div>
